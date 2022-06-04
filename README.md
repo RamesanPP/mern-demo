@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 * install node
 * install mongodb, express, cors, dotenv, nodemon in backend 
+* add server, index, route and successfully connect to server (mongodb cluster)
